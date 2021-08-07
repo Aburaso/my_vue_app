@@ -1,6 +1,6 @@
 # my-vue-app
 
-## Project setup
+## 最初に実行するコマンド
 ```
 npm install
 ```
